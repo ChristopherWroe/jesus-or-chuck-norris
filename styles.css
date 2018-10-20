@@ -1,0 +1,103 @@
+        @font-face{font-family: BebasKai;
+        src: url("./font/BebasKai.otf")
+        }
+        body{
+            background-color: rgb(19, 78, 88);
+            color:white;
+            font-family: BebasKai;
+            margin: 0;
+            }
+        html{
+            font-size: 30px;
+            }
+        .header{
+            text-align: center;
+            margin-top: 0.5rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;   
+        }
+        .main-section {
+            max-width: 10rem;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 1rem;
+            text-align: center;
+            }
+            
+        .link-section {
+            max-width: 10rem;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 0.5rem;
+            text-align: center;
+            font-size: 30px;
+            }
+        .footer_1{
+            position: fixed;
+            height: 5rem;
+            text-align: center;
+            width: 100%;
+            bottom: 0rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            }
+            .footer_2{
+            position: fixed;
+            height: 5rem;
+            text-align: center;
+            width: 100%;
+            bottom: 0rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            }
+
+        .js-share-section{
+            font-family: sans-serif;
+            font-size: .8rem;
+            margin-top: 2rem;
+            height: 4rem;
+            width: 100%;  
+            }
+            
+        .logo{
+            width: 1rem;
+            margin-right: 0.2rem;
+            }
+        .footer-btn-l {
+            background: transparent;
+            margin: 0.5rem;
+            border: none;
+            }
+        .footer-btn-r {
+            background: transparent;
+            margin: 0.5rem;
+            border: none;
+            }
+            
+        .footer-btn-bl {
+            background: transparent;
+            margin: 0.5rem;
+            border: none;
+            }
+            .footer-btn-br {
+            background: transparent;
+            margin: 0.5rem;
+            border: none;
+            }
+        .footer-btn-img-1{
+            width: 4rem;
+            height: 4.4rem;
+        }
+         .footer-btn-img-2{
+            width: 4rem;
+            height: 4.4rem;
+        }
+        .dis-n {
+            display: none
+        }
+        a { color:white}
+
+        
